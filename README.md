@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abishekbardewa" alt="abishekbardewa" /></a> </p>
 
-- 🔭 **I’m currently working on [Milo Assitant](https://app.miloassistant.ai/)**
+- 🔭 **I’m currently working on [Milo Assistant](https://app.miloassistant.ai/)**
 
 - 💬 **I’m a passionate Frontend Developer with over 5 years of experience in designing and developing scalable, user-centric web applications. I specialize in JavaScript, ReactJS, NextJS, Angular, and Node.js, and have a deep understanding of both frontend and backend development. I love optimizing web performance and building responsive, cross-browser-compatible interfaces that enhance user experience.**
 
